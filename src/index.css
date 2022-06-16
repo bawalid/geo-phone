@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Rokkitt:wght@300;500;700&display=swap');
+
+* {
+  margin: 0;
+  padding: 0;
+  font-family: 'Rokkitt', serif;
+}
+
+body{
+  background-color: rgb(247, 247, 247);
+}
+
+.title{
+  text-align: center;
+  font-weight: 700;
+  font-size: 3rem;
+  color: #002144;
+  margin-bottom: 20px;
+}
+
+.title span{
+  color: #2579F9;
+}
+
+#map{
+  border-radius: 10px;
+}
